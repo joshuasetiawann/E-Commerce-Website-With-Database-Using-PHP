@@ -1,0 +1,24 @@
+# Environment / secrets
+.env
+.env.*
+*.local
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs & caches
+*.log
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+
+# Local database dumps / backups
+*.sql.bak
+*.dump
